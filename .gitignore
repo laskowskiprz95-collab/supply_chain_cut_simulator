@@ -1,1 +1,12 @@
 "Input M5/" 
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
