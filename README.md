@@ -126,6 +126,7 @@ All paths and parameters are easily editable in-notebook.
 <div align="center">
 
 ## 🗂️ Data Availability
+</div>
 This project uses public data from [M5 Forecasting Accuracy Competition](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data)
 To reproduce results, download the following files and place them in the `/Input M5/` folder:
 
@@ -136,7 +137,7 @@ To reproduce results, download the following files and place them in the `/Input
 These files are too large for GitHub storage and are **excluded from the repository** to keep it lightweight.  
 All scripts and notebooks will automatically detect them if placed in the correct directory.
 
-</div> 
+ 
 <div align="center">
 
 ## 🤝 Connect
