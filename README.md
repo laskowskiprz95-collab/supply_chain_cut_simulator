@@ -15,11 +15,11 @@ When taking strategic decisions in supply chain more often than not it's a balan
 
 This project aims to simulate a 30-day scope contained in a simulated multi-plant, multi-dc network to see how production cut affects:
 
-💠deployment plan
-💠safety stock coverage
-💠impact to service
+    🔸deployment plan
+    🔸safety stock coverage
+    🔸impact to service
 
-all across 150 SKUs
+All across 150 SKUs
 
 Because the subject of this simulation is considered sensitive data what I aimed to do was to simulate every key master-data element like pallet size, truck size and MOQ as well as general supply chain structure.
 My goal was to combine forecasting, production and distribution into one end-to-end pipeline that is able to tell a clear story.
